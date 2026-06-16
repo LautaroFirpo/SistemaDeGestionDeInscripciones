@@ -1,0 +1,8 @@
+I;101;Juan Perez;3;15000
+P;102;Ana Gomez;6;20000;CROSSFIT
+I;103;Luis Diaz;1;12000
+P;104;Marina Lopez;12;18000;PILETA
+I;105;Carlos Ruiz;2;14000
+P;106;Sofia Diaz;4;22000;YOGA
+I;107;Pedro Gil;5;11000
+P;108;Lucia Castro;3;25000;PILETA

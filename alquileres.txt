@@ -1,0 +1,4 @@
+1;101;Juan Perez;3
+2;102;Ana Gomez;2;SPA
+3;103;Luis Diaz;5
+4;104;Marina Lopez;4;COCHERA
